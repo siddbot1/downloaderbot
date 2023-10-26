@@ -28,11 +28,11 @@ import os
 import io
 from get_video_info import get_video_attributes, get_video_thumb
 
-API_ID = 26368249
-API_HASH = "ac2db262d5eb7ce0efc0162404c8d172"
-BOT_TOKEN = "6504918956:AAH-47Xg995EYliDmhQuzfG0JA65QLWF5Zg"
-AUTH_USERS = 5684410709
-sudo_users = [5684410709]
+API_ID = 25218337
+API_HASH = "0984be1572879b9dabb10882fb46a539"
+BOT_TOKEN = "6844110796:AAELtFSdAOdtnWNviRAPOD1wqEhwNJb-S7s"
+AUTH_USERS = 5732659152
+sudo_users = [5732659152]
 bot = Client(
     "bot",
     bot_token=BOT_TOKEN,
